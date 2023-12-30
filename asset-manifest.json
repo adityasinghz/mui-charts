@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/materio-charts/static/css/main.e6c13ad2.css",
-    "main.js": "/materio-charts/static/js/main.726029a5.js",
-    "static/js/787.ac0e9ed1.chunk.js": "/materio-charts/static/js/787.ac0e9ed1.chunk.js",
-    "index.html": "/materio-charts/index.html",
-    "main.e6c13ad2.css.map": "/materio-charts/static/css/main.e6c13ad2.css.map",
-    "main.726029a5.js.map": "/materio-charts/static/js/main.726029a5.js.map",
-    "787.ac0e9ed1.chunk.js.map": "/materio-charts/static/js/787.ac0e9ed1.chunk.js.map"
+    "main.css": "/mui-charts/static/css/main.e6c13ad2.css",
+    "main.js": "/mui-charts/static/js/main.00232eb9.js",
+    "static/js/787.ac0e9ed1.chunk.js": "/mui-charts/static/js/787.ac0e9ed1.chunk.js",
+    "index.html": "/mui-charts/index.html",
+    "main.e6c13ad2.css.map": "/mui-charts/static/css/main.e6c13ad2.css.map",
+    "main.00232eb9.js.map": "/mui-charts/static/js/main.00232eb9.js.map",
+    "787.ac0e9ed1.chunk.js.map": "/mui-charts/static/js/787.ac0e9ed1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.726029a5.js"
+    "static/js/main.00232eb9.js"
   ]
 }
