@@ -10,7 +10,7 @@ import { Paper, Grid, Box } from '@mui/material';
 const ColorModeContext = React.createContext({ toggleColorMode: () => { } });
 
 function useColorMode() {
-  const [mode, setMode] = React.useState('dark');
+  const [mode, setMode] = React.useState('light');
 
   const toggleColorMode = React.useCallback(() => {
     setMode((prevMode) => (prevMode === 'light' ? 'dark' : 'light'));
