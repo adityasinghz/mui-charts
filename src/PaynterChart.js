@@ -156,7 +156,7 @@ function getGroupedColumn(result_months, result_dates, theme) {
         },
         {
             headerName: (
-                <Box sx={{ width: "610px", textAlign: "center" }}>
+                <Box sx={{ width: "610px" }}>
                     <Typography variant="body1" sx={{ color: theme.palette.text.primary }}>
                         {PaynterChartFunction.currentMonth}
                     </Typography>

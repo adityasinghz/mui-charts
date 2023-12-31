@@ -1,5 +1,5 @@
 {
-  "homepage": "https://adityasinghz.github.io/materio-charts",
+  "homepage": "https://adityasinghz.github.io/mui-charts",
   "name": "my-chart",
   "version": "0.1.0",
   "private": true,
@@ -16,6 +16,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "apexcharts": "^3.45.1",
+    "gh-pages": "^6.1.1",
     "moment": "^2.30.1",
     "react": "^18.2.0",
     "react-apexcharts": "^1.4.1",
