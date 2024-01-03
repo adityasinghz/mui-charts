@@ -1,11 +1,11 @@
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import * as React from 'react';
-import ParetoChart from './ParetoChart'
-import Actionbar from './Appbar'
-import LineChart from './LineChart'
-import HeatMap from './HeatMap'
-import BarChart from './BarChart'
-import PaynterChart from './PaynterChart'
+import ParetoChart from './components/ParetoChart'
+import Actionbar from './components/Appbar'
+import LineChart from './components/LineChart'
+import HeatMap from './components/HeatMap'
+import BarChart from './components/BarChart'
+import PaynterChart from './components/PaynterChart'
 import { Paper, Grid, Box } from '@mui/material';
 const ColorModeContext = React.createContext({ toggleColorMode: () => { } });
 
