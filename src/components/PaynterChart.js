@@ -5,7 +5,7 @@ import { useTheme } from '@mui/material/styles';
 
 
 
-const PaynterChartFunction = require("./PaynterChartFunction");
+const PaynterChartFunction = require("../functions/PaynterChartFunction");
 function getPageColumn(result_months, result_dates, theme) {
     let columns = [];
     columns.push(
